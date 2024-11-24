@@ -28,31 +28,6 @@ Connect Four is a two-player connection game. Players take turns dropping a disc
 
 ---
 
-## 🚀 Getting Started  
-
-### 1️⃣ Prerequisites  
-Ensure you have [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed (version 8 or higher).
-
-### 2️⃣ Clone the Repository  
-Clone this repository to your local machine:  
-```bash
-git clone https://github.com/yourgithubusername/connect-four-game-java.git
-cd connect-four
-```
-
-### 3️⃣ Compile the Program
-To compile the Connect Four game, run:
-```bash
-javac ConnectFour.java
-```
-
-### 4️⃣ Run the Game
-To start the game, run:
-```bash
-java ConnectFour
-```
-You can select the theme at the beginning of the game (Christmas, Halloween, or default theme).
-
 ### 📖 How It Works
 Gameplay:
 
